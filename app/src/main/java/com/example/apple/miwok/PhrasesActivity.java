@@ -37,7 +37,7 @@ public class PhrasesActivity extends AppCompatActivity {
             }
         }
     };
-    
+
     private MediaPlayer.OnCompletionListener mOnCompletionListener = new MediaPlayer.OnCompletionListener() {
 
         @Override
